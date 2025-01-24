@@ -1,4 +1,4 @@
-### Hi, I'm Melody Mae! 👋
+# Hi, I'm Melody Mae! 👋
 
 🎨 Software Engineer sharing about my journey and learnings in tech <br/>
 🎨 Studied [Computer Science\() at the Rice University at Houston, Texas <br/>
